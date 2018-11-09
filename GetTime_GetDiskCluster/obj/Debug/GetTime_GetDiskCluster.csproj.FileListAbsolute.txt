@@ -1,0 +1,10 @@
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.csprojAssemblyReference.cache
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.Form1.resources
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.Properties.Resources.resources
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.csproj.GenerateResource.cache
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.csproj.CoreCompileInputs.cache
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\bin\Debug\GetTime_GetDiskCluster.exe.config
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\bin\Debug\GetTime_GetDiskCluster.exe
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\bin\Debug\GetTime_GetDiskCluster.pdb
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.exe
+c:\users\ярослав\documents\visual studio 2017\Projects\GetTime_GetDiskCluster\GetTime_GetDiskCluster\obj\Debug\GetTime_GetDiskCluster.pdb
